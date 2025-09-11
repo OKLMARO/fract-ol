@@ -6,7 +6,11 @@
 /*   By: oamairi <oamairi@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/13 18:39:47 by oamairi           #+#    #+#             */
-/*   Updated: 2025/08/13 18:39:48 by oamairi          ###   ########.fr       */
+/*   Updated: 2025/09/11 18:39:30 by oamairi          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#ifndef FRACT_H
+#define FRACT_H
+# include "minilibx-linux/mlx.h"
+#endif
